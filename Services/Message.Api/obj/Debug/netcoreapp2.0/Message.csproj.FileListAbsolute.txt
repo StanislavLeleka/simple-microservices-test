@@ -1,0 +1,11 @@
+C:\Users\Stan\Documents\Visual Studio 2017\Projects\SimpleMessageMicroservices\SimpleMessageMicroservices\bin\Debug\netcoreapp2.0\Message.deps.json
+C:\Users\Stan\Documents\Visual Studio 2017\Projects\SimpleMessageMicroservices\SimpleMessageMicroservices\bin\Debug\netcoreapp2.0\Message.runtimeconfig.json
+C:\Users\Stan\Documents\Visual Studio 2017\Projects\SimpleMessageMicroservices\SimpleMessageMicroservices\bin\Debug\netcoreapp2.0\Message.runtimeconfig.dev.json
+C:\Users\Stan\Documents\Visual Studio 2017\Projects\SimpleMessageMicroservices\SimpleMessageMicroservices\bin\Debug\netcoreapp2.0\Message.dll
+C:\Users\Stan\Documents\Visual Studio 2017\Projects\SimpleMessageMicroservices\SimpleMessageMicroservices\bin\Debug\netcoreapp2.0\Message.pdb
+C:\Users\Stan\Documents\Visual Studio 2017\Projects\SimpleMessageMicroservices\SimpleMessageMicroservices\obj\Debug\netcoreapp2.0\Message.csprojResolveAssemblyReference.cache
+C:\Users\Stan\Documents\Visual Studio 2017\Projects\SimpleMessageMicroservices\SimpleMessageMicroservices\obj\Debug\netcoreapp2.0\Message.csproj.CoreCompileInputs.cache
+C:\Users\Stan\Documents\Visual Studio 2017\Projects\SimpleMessageMicroservices\SimpleMessageMicroservices\obj\Debug\netcoreapp2.0\Message.AssemblyInfoInputs.cache
+C:\Users\Stan\Documents\Visual Studio 2017\Projects\SimpleMessageMicroservices\SimpleMessageMicroservices\obj\Debug\netcoreapp2.0\Message.AssemblyInfo.cs
+C:\Users\Stan\Documents\Visual Studio 2017\Projects\SimpleMessageMicroservices\SimpleMessageMicroservices\obj\Debug\netcoreapp2.0\Message.dll
+C:\Users\Stan\Documents\Visual Studio 2017\Projects\SimpleMessageMicroservices\SimpleMessageMicroservices\obj\Debug\netcoreapp2.0\Message.pdb

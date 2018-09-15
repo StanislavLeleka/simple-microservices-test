@@ -1,0 +1,23 @@
+/Services/.vs
+/Services/.bin
+/Services/.obj
+
+# dependencies
+/SPA/message-spa/node_modules
+
+# testing
+/SPA/message-spa/coverage
+
+# production
+/SPA/message-spa/build
+
+# misc
+/SPA/message-spa/.DS_Store
+/SPA/message-spa/.env.local
+/SPA/message-spa/.env.development.local
+/SPA/message-spa/.env.test.local
+/SPA/message-spa/.env.production.local
+
+/SPA/message-spa/npm-debug.log*
+/SPA/message-spa/yarn-debug.log*
+/SPA/message-spa/yarn-error.log*

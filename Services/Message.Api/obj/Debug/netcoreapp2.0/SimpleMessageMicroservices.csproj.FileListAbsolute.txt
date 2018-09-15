@@ -1,0 +1,11 @@
+C:\Users\Stan\Documents\Visual Studio 2017\Projects\SimpleMessageMicroservices\SimpleMessageMicroservices\obj\Debug\netcoreapp2.0\SimpleMessageMicroservices.csprojResolveAssemblyReference.cache
+C:\Users\Stan\Documents\Visual Studio 2017\Projects\SimpleMessageMicroservices\SimpleMessageMicroservices\obj\Debug\netcoreapp2.0\SimpleMessageMicroservices.csproj.CoreCompileInputs.cache
+C:\Users\Stan\Documents\Visual Studio 2017\Projects\SimpleMessageMicroservices\SimpleMessageMicroservices\obj\Debug\netcoreapp2.0\SimpleMessageMicroservices.AssemblyInfoInputs.cache
+C:\Users\Stan\Documents\Visual Studio 2017\Projects\SimpleMessageMicroservices\SimpleMessageMicroservices\obj\Debug\netcoreapp2.0\SimpleMessageMicroservices.AssemblyInfo.cs
+C:\Users\Stan\Documents\Visual Studio 2017\Projects\SimpleMessageMicroservices\SimpleMessageMicroservices\obj\Debug\netcoreapp2.0\SimpleMessageMicroservices.dll
+C:\Users\Stan\Documents\Visual Studio 2017\Projects\SimpleMessageMicroservices\SimpleMessageMicroservices\obj\Debug\netcoreapp2.0\SimpleMessageMicroservices.pdb
+C:\Users\Stan\Documents\Visual Studio 2017\Projects\SimpleMessageMicroservices\SimpleMessageMicroservices\bin\Debug\netcoreapp2.0\SimpleMessageMicroservices.deps.json
+C:\Users\Stan\Documents\Visual Studio 2017\Projects\SimpleMessageMicroservices\SimpleMessageMicroservices\bin\Debug\netcoreapp2.0\SimpleMessageMicroservices.runtimeconfig.json
+C:\Users\Stan\Documents\Visual Studio 2017\Projects\SimpleMessageMicroservices\SimpleMessageMicroservices\bin\Debug\netcoreapp2.0\SimpleMessageMicroservices.runtimeconfig.dev.json
+C:\Users\Stan\Documents\Visual Studio 2017\Projects\SimpleMessageMicroservices\SimpleMessageMicroservices\bin\Debug\netcoreapp2.0\SimpleMessageMicroservices.dll
+C:\Users\Stan\Documents\Visual Studio 2017\Projects\SimpleMessageMicroservices\SimpleMessageMicroservices\bin\Debug\netcoreapp2.0\SimpleMessageMicroservices.pdb

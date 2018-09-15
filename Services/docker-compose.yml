@@ -1,0 +1,14 @@
+version: '3.4'
+
+services:
+  message.api:
+    image: message.api
+    build:
+      context: .
+      dockerfile: Message.Api/Dockerfile
+
+  notificationservice:
+    image: notificationservice
+    build:
+      context: .
+      dockerfile: Dockerfile
