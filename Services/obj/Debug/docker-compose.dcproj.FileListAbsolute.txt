@@ -1,5 +1,0 @@
-C:\Users\Stan\Documents\Visual Studio 2017\Projects\SimpleMessageMicroservices\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
-C:\Users\Stan\Documents\Visual Studio 2017\Projects\SimpleMessageMicroservices\bin\Debug\Message.API.dll
-C:\Users\Stan\Documents\Visual Studio 2017\Projects\SimpleMessageMicroservices\bin\Debug\Message.API.pdb
-C:\Users\Stan\Documents\Visual Studio 2017\Projects\SimpleMessageMicroservices\obj\Debug\docker-compose.dcprojAssemblyReference.cache
-C:\Users\Stan\Documents\Visual Studio 2017\Projects\SimpleMessageMicroservices\obj\Debug\docker-compose.dcproj.CopyComplete
