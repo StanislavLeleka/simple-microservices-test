@@ -1,6 +1,6 @@
 /Services/.vs
-/Services/.bin
-/Services/.obj
+/Services/bin
+/Services/obj
 
 # dependencies
 /SPA/message-spa/node_modules
@@ -21,3 +21,7 @@
 /SPA/message-spa/npm-debug.log*
 /SPA/message-spa/yarn-debug.log*
 /SPA/message-spa/yarn-error.log*
+/Services/Message.Api/bin
+/Services/Message.Api/obj
+/Services/NotificationService/obj
+/Services/NotificationService/bin
