@@ -17,7 +17,7 @@ namespace NotificationService.Controllers
 
         [Route("receive-message")]
         [HttpPost]
-        public async Task SendMessage([FromBody]MessageNotificationDto message)
+        public async Task ReceiveMessageAndNotify([FromBody]MessageNotificationDto message)
         {
             await _messageHub.NotifyClients(message);
         }
